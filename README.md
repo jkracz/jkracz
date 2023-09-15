@@ -7,7 +7,7 @@ Product Engineer
 Building things that matter - that's what I'm passionate about. My journey in the fintech sector as a product manager allowed me to develop a strategic approach to product development, combining business acumen with technical problem-solving. Now, I'm returning to my roots in software engineering, bringing along my product and business insights to create software that truly matters. When I'm not building products, I freelance with Webflow, helping businesses build impactful digital footprints.
 
 * 🌍  I'm based in Sunnyvale, CA
-* 🖥️  See my portfolio at [joekracz.com](http://www.joekracz.com/)
+* 🖥️  See my portfolio at [joekracz.com](http://www.joekracz.com?utm_source=github)
 * ✉️  You can contact me at [joseph.kracz@gmail.com](mailto:joseph.kracz@gmail.com)
 
 ### Skills
