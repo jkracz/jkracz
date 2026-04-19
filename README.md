@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe Kracz
-=================================================================================================================================
-
 I like to build things.
+
+Currently Director of Eng @ Pull Systems, trying to bring AI to the manufacturing world. 
+
+Using any free time I have to build cool stuff.
 
 ### Support Me
 
